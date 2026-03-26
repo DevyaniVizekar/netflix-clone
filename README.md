@@ -40,10 +40,5 @@ This project is a detailed frontend clone of Netflix’s landing page. It replic
 ## Project Status
 This is a frontend-only clone and does not include backend functionality or video streaming features.
 
-## Future Improvements
-- Add interactivity using JavaScript
-- Improve responsiveness further
-- Integrate backend features
-
 ## Author
 Devyani Vizekar
